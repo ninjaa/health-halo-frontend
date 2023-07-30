@@ -25,7 +25,7 @@ const handler = async (req: Request): Promise<Response> => {
       tiktokenModel.pat_str,
     );
     console.log(prompt)
-    let promptToSend = dedent`You are MediQA, an expert medical AI. Follow the user's instructions carefully, and respond based on the patient context provided here. Respond using markdown, and ALWAYS link to the source_link in markdown format alongside the extracted information.
+    let promptToSend = dedent`You are HealthHalo, an expert medical AI. Follow the user's instructions carefully, and respond based on the patient context provided here. Respond using markdown, and ALWAYS link to the source_link in markdown format alongside the extracted information.
 
     IMPORTANT:
     - if you're listing out medications or lab results use a table if appropriate
