@@ -1,4 +1,35 @@
-# Chatbot UI
+# Health Halo Frontend
+
+Demo for Anthropic Hackathon 2023-07-30
+
+## Prerequisites
+
+- Node v18.2+
+
+## Installation
+
+```bash
+npm install
+```
+
+Requires backend server running locally, see repo [here](https://github.com/ninjaa/health-halo-backend) for server setup instructions.
+
+## How to run
+
+```bash
+npm run dev
+```
+
+Login with following credentials:
+
+Username: swirl
+Password: password
+
+## Source
+
+Cloned and modified from the great Open Source [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
+
+## Chatbot UI
 
 Chatbot UI is an open source chat UI for AI models.
 
