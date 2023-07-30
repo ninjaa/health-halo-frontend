@@ -396,7 +396,7 @@ const Home = ({
       }}
     >
       <Head>
-        <title>ChatBCH</title>
+        <title>MediQA</title>
         <meta name="description" content="ChatGPT but better." />
         <meta
           name="viewport"
