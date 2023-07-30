@@ -1,0 +1,20 @@
+[I 23:03:22.820 NotebookApp] Serving notebooks from local directory: /home/ethan/chatbot-ui
+[I 23:03:22.821 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 23:03:22.821 NotebookApp] http://babynirs101:8888/?token=...
+[I 23:03:22.821 NotebookApp]  or http://127.0.0.1:8888/?token=...
+[I 23:03:22.821 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:03:22.822 NotebookApp] No web browser found: could not locate runnable browser.
+[W 23:03:27.096 NotebookApp] 404 GET /files/anonymized_notes_clean/7483757057_cleaned.json (172.18.201.15) 17.060000ms referer=http://babynirs101:3000/
+[W 23:04:06.147 NotebookApp] Blocking request with no referer
+[W 23:04:06.147 NotebookApp] 403 GET /files/anonymized_notes_clean/7483757057_cleaned.json (172.18.201.15): Blocking request from unknown origin
+[W 23:04:06.148 NotebookApp] 403 GET /files/anonymized_notes_clean/7483757057_cleaned.json (172.18.201.15) 1.230000ms referer=None
+[W 23:04:29.185 NotebookApp] 404 GET /api/contents/41356914_anonymous_data_to_2023-06-10_21-06-06/api/vitals-main-prd/41356914_cap_5H_response.json?type=file&format=text&_=1686611068830 (172.18.201.15): file or directory does not exist: '41356914_anonymous_data_to_2023-06-10_21-06-06/api/vitals-main-prd/41356914_cap_5H_response.json'
+[W 23:04:29.185 NotebookApp] file or directory does not exist: '41356914_anonymous_data_to_2023-06-10_21-06-06/api/vitals-main-prd/41356914_cap_5H_response.json'
+[W 23:04:29.185 NotebookApp] 404 GET /api/contents/41356914_anonymous_data_to_2023-06-10_21-06-06/api/vitals-main-prd/41356914_cap_5H_response.json?type=file&format=text&_=1686611068830 (172.18.201.15) 0.630000ms referer=http://babynirs101:8888/edit/41356914_anonymous_data_to_2023-06-10_21-06-06/api/vitals-main-prd/41356914_cap_5H_response.json
+[W 23:04:38.632 NotebookApp] 404 GET /tree/anonymized_notes_clean/7483757057_cleaned.json?token=b48db1126afb55bd5bf891b669a48e020a77143759632c5b (172.18.201.15) 1.170000ms referer=http://babynirs101:3000/
+[W 23:05:04.956 NotebookApp] 404 GET /edit/anonymized_notes_clean/7483757057_cleaned.json (172.18.201.15): File does not exist: anonymized_notes_clean/7483757057_cleaned.json
+[W 23:05:04.957 NotebookApp] 404 GET /edit/anonymized_notes_clean/7483757057_cleaned.json (172.18.201.15) 1.230000ms referer=None
+[W 23:05:29.564 NotebookApp] 404 GET /edit/anonymized_notes_clean/7482825660_cleaned.json (172.18.201.15): File does not exist: anonymized_notes_clean/7482825660_cleaned.json
+[W 23:05:29.564 NotebookApp] 404 GET /edit/anonymized_notes_clean/7482825660_cleaned.json (172.18.201.15) 1.160000ms referer=None
+[W 23:06:19.607 NotebookApp] 404 GET /edit/anonymized_notes_clean/7482825660_cleaned.json (172.18.201.15): File does not exist: anonymized_notes_clean/7482825660_cleaned.json
+[W 23:06:19.608 NotebookApp] 404 GET /edit/anonymized_notes_clean/7482825660_cleaned.json (172.18.201.15) 1.130000ms referer=http://babynirs101:8888/tree/anonymized_notes_clean

@@ -1,0 +1,33 @@
+
+> ai-chatbot-starter@0.1.0 start
+> next start
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from /home/ethan/chatbot-ui/.env
+Killed
+
+> ai-chatbot-starter@0.1.0 start
+> next start
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from /home/ethan/chatbot-ui/.env
+You are ChatGPT, a large language model trained by OpenAI. Follow the user's instructions carefully. Respond using markdown.
+You are ChatGPT, a large language model trained by OpenAI. Follow the user's instructions carefully. Respond using markdown.
+You are ChatGPT, a large language model trained by OpenAI. Follow the user's instructions carefully. Respond using markdown.
+You are ChatGPT, a large language model trained by OpenAI. Follow the user's instructions carefully. Respond using markdown.
+You are ChatGPT, a large language model trained by OpenAI. Follow the user's instructions carefully. Respond using markdown.
+You are ChatGPT, a large language model trained by OpenAI. Follow the user's instructions carefully. Respond using markdown.
+
+> ai-chatbot-starter@0.1.0 start
+> next start
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Loaded env from /home/ethan/chatbot-ui/.env
+Error: Could not find a production build in the '/home/ethan/chatbot-ui/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/ethan/chatbot-ui/node_modules/next/dist/server/next-server.js:198:23)
+    at new Server (/home/ethan/chatbot-ui/node_modules/next/dist/server/base-server.js:68:29)
+    at new NextNodeServer (/home/ethan/chatbot-ui/node_modules/next/dist/server/next-server.js:70:9)
+    at NextServer.createServer (/home/ethan/chatbot-ui/node_modules/next/dist/server/next.js:147:16)
+    at async /home/ethan/chatbot-ui/node_modules/next/dist/server/next.js:159:31
+    at async NextServer.prepare (/home/ethan/chatbot-ui/node_modules/next/dist/server/next.js:134:24)
+    at async /home/ethan/chatbot-ui/node_modules/next/dist/cli/next-start.js:118:9
