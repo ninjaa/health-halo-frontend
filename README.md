@@ -25,6 +25,19 @@ Login with following credentials:
 Username: swirl
 Password: password
 
+## Interesting queries to try
+
+Here are some interesting queries we came up with while testing!
+
+- What is the patient's current condition?
+- Is the current medication regime appropriate? Do we need to plan for any contingencies?
+- Is the patient on antibiotics?
+- Describe all interventions
+- Who is the lead doctor? And who is on call?
+- Hello! I am the new shift nurse. What do I need to know to be up to speed
+
+
+
 ## Source
 
 Cloned and modified from the great Open Source [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)
